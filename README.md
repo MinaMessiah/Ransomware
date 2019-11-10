@@ -1,7 +1,7 @@
 # Ransomware
 Ransomware created for CECS 378 at CSULB
 
-Located at: www.onestyle.tech
+Located at: www.onestyle.tech (currently not hosted)
 
 ### Using Windows Subsystem for Linux
 
